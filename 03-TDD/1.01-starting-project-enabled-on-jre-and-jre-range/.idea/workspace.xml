@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b59e305-857d-4b11-96e2-e1236f3c92f2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UTM526RMf2SCW5nNimyZzw7cua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/03-TDD/1.02-tdd-parameterized-tests"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ConditionalTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.junitdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.junitdemo.ConditionalTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.junitdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.junitdemo.DemoUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoUtilsTest.testEqualsNotEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.junitdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.junitdemo.DemoUtilsTest" />
+      <option name="METHOD_NAME" value="testEqualsNotEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoUtilsTest.testNullNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.junitdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.junitdemo.DemoUtilsTest" />
+      <option name="METHOD_NAME" value="testNullNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testForDivisibleByThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.tdd.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testForDivisibleByThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="1.00-starting-project-assert-equals-and-not-equals-AND-null-not-null" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="1.00-starting-project-assert-equals-and-not-equals-AND-null-not-null" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testForDivisibleByThree" />
+        <item itemvalue="JUnit.ConditionalTests" />
+        <item itemvalue="JUnit.DemoUtilsTest" />
+        <item itemvalue="JUnit.DemoUtilsTest.testNullNotNull" />
+        <item itemvalue="JUnit.DemoUtilsTest.testEqualsNotEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b59e305-857d-4b11-96e2-e1236f3c92f2" name="Changes" comment="" />
+      <created>1692958931638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692958931638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_04_starting_project_assert_throws_and_timeouts$DemoUtilsTest.ic" NAME="DemoUtilsTest Coverage Results" MODIFIED="1693386468487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.luv2code.junitdemo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
