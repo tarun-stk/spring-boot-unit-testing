@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8636d4-0fd9-4d86-8abf-c8a54a1e238a" name="Changes" comment="" />
+    <list default="true" id="2b8636d4-0fd9-4d86-8abf-c8a54a1e238a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../05-database-integration-testing/5.00-starting-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-database-integration-testing/5.00-starting-project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,13 +39,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/06-controller-testing/6.00-starting-project",
+    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/06-controller-testing/6.03-testing-delete",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.StudentAndGradeServiceTest.getGradeBookService">
+  <component name="RunManager" selected="Application.MvcTestingExampleApplication">
     <configuration name="MvcTestingExampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.MvcTestingExampleApplication" />
       <module name="spring-boot-mvc-testing-demo" />
@@ -53,37 +55,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentAndGradeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-mvc-testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luv2code.springmvc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentAndGradeServiceTest.createStudentService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-mvc-testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luv2code.springmvc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="createStudentService" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,13 +91,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentAndGradebookControllerTest.createStudentHttpRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-mvc-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="createStudentHttpRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAndGradebookControllerTest.getStudentsHttpRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-mvc-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="getStudentsHttpRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="6.02-code-update-inside-index" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="6.02-code-update-inside-index" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MvcTestingExampleApplication" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.createStudentHttpRequest" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.getStudentsHttpRequest" />
         <item itemvalue="JUnit.StudentAndGradeServiceTest.getGradeBookService" />
         <item itemvalue="JUnit.StudentAndGradeServiceTest.deleteStudent" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.createStudentService" />
-        <item itemvalue="Application.MvcTestingExampleApplication" />
       </list>
     </recent_temporary>
   </component>
