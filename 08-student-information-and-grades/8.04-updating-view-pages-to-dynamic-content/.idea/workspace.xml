@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8636d4-0fd9-4d86-8abf-c8a54a1e238a" name="Changes" comment="" />
+    <list default="true" id="2b8636d4-0fd9-4d86-8abf-c8a54a1e238a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../07-testing-service-layer/7.00-testing-diff-grades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-testing-service-layer/7.00-testing-diff-grades/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,20 +42,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Enfec Solutions/Downloads/galileo-activation",
+    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/08-student-information-and-grades/8.04-updating-view-pages-to-dynamic-content",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.luv2code.springmvc.repository" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Enfec Solutions\Documents\Spring Boot Unit Testing with JUnit, Mockito and MockMvc\08-student-information-and-grades\8.01-testing-student-information\src\main\java\com\luv2code\springmvc\repository" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentAndGradeServiceTest.studentInformationServiceReturnNull">
-    <configuration name="StudentAndGradeServiceTest.createGradeService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MvcTestingExampleApplication">
+    <configuration name="MvcTestingExampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.MvcTestingExampleApplication" />
+      <module name="spring-boot-mvc-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAndGradebookControllerTest.createInvalidGradeTypeRerurnsError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-mvc-testing-demo" />
       <extension name="coverage">
         <pattern>
@@ -62,14 +76,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="createGradeService" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="createInvalidGradeTypeRerurnsError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAndGradeServiceTest.deleteGradeServiceReturnIdOfZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAndGradebookControllerTest.deleteAValidGradeHttpRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-mvc-testing-demo" />
       <extension name="coverage">
         <pattern>
@@ -78,14 +92,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="deleteGradeServiceReturnIdOfZero" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="deleteAValidGradeHttpRequest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAndGradeServiceTest.deleteStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAndGradebookControllerTest.deleteAValidGradeHttpWhenAGradeIdIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-mvc-testing-demo" />
       <extension name="coverage">
         <pattern>
@@ -94,14 +108,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="deleteStudent" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="deleteAValidGradeHttpWhenAGradeIdIsInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAndGradeServiceTest.studentInformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAndGradebookControllerTest.deleteAValidGradeHttpWhenAGradeTypeIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-mvc-testing-demo" />
       <extension name="coverage">
         <pattern>
@@ -110,36 +124,33 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="studentInformation" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradebookControllerTest" />
+      <option name="METHOD_NAME" value="deleteAValidGradeHttpWhenAGradeTypeIsInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAndGradeServiceTest.studentInformationServiceReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-mvc-testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luv2code.springmvc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luv2code.springmvc" />
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springmvc.StudentAndGradeServiceTest" />
-      <option name="METHOD_NAME" value="studentInformationServiceReturnNull" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="6.02-code-update-inside-index" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="6.02-code-update-inside-index" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.studentInformationServiceReturnNull" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.studentInformation" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.deleteStudent" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.deleteGradeServiceReturnIdOfZero" />
-        <item itemvalue="JUnit.StudentAndGradeServiceTest.createGradeService" />
+        <item itemvalue="Application.MvcTestingExampleApplication" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.deleteAValidGradeHttpWhenAGradeTypeIsInvalid" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.deleteAValidGradeHttpWhenAGradeIdIsInvalid" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.deleteAValidGradeHttpRequest" />
+        <item itemvalue="JUnit.StudentAndGradebookControllerTest.createInvalidGradeTypeRerurnsError" />
       </list>
     </recent_temporary>
   </component>
