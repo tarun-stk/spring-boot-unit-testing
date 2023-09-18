@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8636d4-0fd9-4d86-8abf-c8a54a1e238a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../07-testing-service-layer/7.00-testing-diff-grades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-testing-service-layer/7.00-testing-diff-grades/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/08-student-information-and-grades/8.04-updating-view-pages-to-dynamic-content",
+    "last_opened_file_path": "C:/Users/Enfec Solutions/Documents/Spring Boot Unit Testing with JUnit, Mockito and MockMvc/09-rest-api-tests/9.00-starting-project",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
